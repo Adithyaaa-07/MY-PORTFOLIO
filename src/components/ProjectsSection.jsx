@@ -3,22 +3,22 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "Netflix",
+    description: "A Netflix Clone is a responsive web app that replicates the design and layout of Netflix, showcasing features like a hero banner, feature sections, FAQs, and a footer",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["React", "TailwindCSS", "HTML", "CSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adithyaaa-07/Netflix-Clone",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Task Pilot",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "TaskPilot is a full-stack task management app to organize and track your tasks easily.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["TypeScript", "Node.js", "MongoDB"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adithyaaa-07/Task-Pilot",
   },
   {
     id: 3,
